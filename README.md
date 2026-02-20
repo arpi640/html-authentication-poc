@@ -1,6 +1,5 @@
 # html-authentication-poc
 
-# HTML Authentication POC
 
 This project contains basic authentication flow using only HTML.
 
