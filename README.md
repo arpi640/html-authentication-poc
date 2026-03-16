@@ -33,11 +33,11 @@ authentication-system-styled/
 ├─ styles.css # Custom CSS
 ├─ README.md # Project Documentation
 └─ screenshots/ # Folder containing all screenshots
-├─ Login.png
+├─ login.png
 ├─ register.png
 ├─ forgor-password.png
 ├─ reset-password.png
-└─ Dashboard.png
+└─ dashboard.png
 
 ## Screenshots
 
